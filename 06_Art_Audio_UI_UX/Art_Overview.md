@@ -27,6 +27,7 @@ The main Coffee Making mini-game interface uses a landscape-oriented, touch-frie
 - **Tuklas Reaction Panel:** A character display showing [[Tuklas]]'s reactions to the player's timing and streaks.
 - **Ingredient Action Panel**: Large, touch-friendly ingredient buttons for easy selection during gameplay.
 - **Pause Icon:** A button in the top corner that opens the pause menu during gameplay.
+<<<<<<< HEAD
 
 ##### Complete UI Screen Breakdown
 
@@ -37,3 +38,5 @@ The main Coffee Making mini-game interface uses a landscape-oriented, touch-frie
 ![[Pasted image 20261031234146.png]]
 ![[Pasted image 20261031234201.png]]![[Pasted image 20261031234213.png]]
 ![[Pasted image 20261031234220.png]]
+=======
+>>>>>>> origin/main
