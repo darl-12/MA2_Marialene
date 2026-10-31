@@ -1,5 +1,6 @@
 > [!info] Guideline
 > Provide a high-level summary of the game concept. Focus on the core user experience, primary mechanic, and objectives rather than detailed background lore
+> hello
 # High Concept & Pitch
 
 > [!info] Game Title
