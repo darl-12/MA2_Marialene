@@ -1,0 +1,3 @@
+Good Coffee, Great Coffee is a coffee shop simulation game where players manage their own café by taking customer orders, preparing customized coffee drinks, and serving customers. Players earn money, unlock new ingredients and equipment, and customize their café with different decorations and upgrades while interacting with customers and experiencing their stories.
+
+![[good coffee, great coffee.png|628]]

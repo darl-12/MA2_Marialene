@@ -2,8 +2,8 @@
 
 Our studio is a team of creative and dedicated game developers who aim to create enjoyable and meaningful gaming experiences. Our core mission is to develop games that combine creativity, engaging gameplay, and learning while promoting local culture and heritage. Through our projects, we hope to make learning more interactive, accessible, and enjoyable for players.
 
-> [!hint]
-> Insert studio logo here.
+![[studio logo.png|212]]
+	*Studio Logo*
 ## Studio Tagline / Mission:
 
 Our team aims to create enjoyable and meaningful games that combine creativity, interactive gameplay, and cultural learning to introduce and promote local heritage.
