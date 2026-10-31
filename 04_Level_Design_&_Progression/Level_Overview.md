@@ -1,83 +1,68 @@
 
 # Level Flow Breakdown
 
-Each zone is built around one puzzle piece. After every five rounds, the piece unlocks a short story told by a Lipa-native NPC, and each story restores a fragment of Tuklas's symbol and memory. The NPC names and story scenes are my proposals. The historical anchors come from your paper (the 1880s rust, the shift to liberica, the lack of successors, Taal and COVID-19, Museo ng Lipa, and the IPOPHL registration). Please check the details with your content experts.
+Each of the five main levels represents a stage in the coffee-making process, from planting to serving. Players progress through short rounds of the Coffee Making mini-game, earning points and affecting Lipa's Cultural Awareness Rate (CAR). Players can also use their earned points to decorate and customize the café. After every five rounds, they unlock a puzzle piece that reveals a short story told by a Lipa-native NPC. Each story helps Tuklas recover a fragment of his lost memories and learn more about Lipa's coffee heritage.
 
-|   |   |   |   |   |
+The characters and their stories are currently proposed ideas and are subject to change. They will be further developed with the help of local coffee farmers, Museo ng Lipa historians, and other cultural experts. The historical details are based on the group's research and will also be reviewed by these experts to ensure their accuracy and authenticity.
+
+|Level|Visual Theme|Introduced Gameplay Elements|Primary Challenge|Puzzle Piece and Key Encounter|
 |---|---|---|---|---|
-|Zone|Visual Theme|Introduced Mechanic|Primary Hazard / Threat|Puzzle Piece and Key Encounter|
-|Zone 0: Paggising|Storm-scarred workshop, abandoned coffee shed|Basic tap-timing, CAR meter, world-state indicator, and Ingredient selection from several options|None (forgiving tutorial)|Tuklas meets Mang/Aling Barako (Guide) and completes the first order. He finds the symbol, which is missing five pieces.|
-|Zone 1: Taniman|Rust-spotted barako groves|same|Rust spreads as the CAR drops; distractor ingredients|Piece 1: Ang Punong Hindi Kinalawang (Tandang Isko, farmer)|
-|Zone 2: Bilaran|Drying yards, wooden racks, sudden rain|same|Rain and ash interruptions|Piece 2: Ang Abo at ang Ulan (Aling Nena, drying-yard worker)|
-|Zone 3: Tostahan|Smoky roasting house, glowing embers|same|Heavier penalty per mistake|Piece 3: Ang Huling Tagatimpla ng Apoy (Mang Berto, master roaster)|
-|Zone 4: Gilingan at Timpla|Village kitchen and market|same|Queue pressure; stricter CAR threshold|Piece 4: Ang Kapeng Hindi Sumuko (Ate Jen, market vendor and barista)|
-|Zone 5: Kapehan|Restored town square and Museo ng Lipa|same|Final rust surge; world can fall back|Piece 5: Ang Susunod na Kamay (Ma'am Dolores, museum curator), then the final reveal|
+|Level 0: Paggising|An old, cozy café with basic wooden furniture, coffee-making equipment, and traditional decorations.|Basic tap timing, ingredient selection, CAR meter, and world-state indicator.|None. This serves as a forgiving tutorial where players learn the basic mechanics.|Tuklas wakes up inside the café and meets a local coffee farmer who introduces him to the coffee-making process. He completes his first order and begins his journey.|
+|Level 1: Taniman|The same café, where players can start decorating the space with coffee plants and cultivation-inspired decorations using their earned points.|Continuation of the basic Coffee Making mechanics.|The difficulty gradually increases as players progress, with more challenging orders and stricter timing requirements.|Piece 1: Ang Punong Hindi Kinalawang (Tandang Isko, farmer).|
+|Level 2: Bilaran|The same café, where players can add drying racks, coffee bean displays, and other decorations using their earned points.|Continuation of the basic Coffee Making mechanics.|The difficulty gradually increases as players progress, with more challenging orders and stricter timing requirements.|Piece 2: Ang Abo at ang Ulan (Aling Nena, drying-yard worker).|
+|Level 3: Tostahan|The same café, where players can add roasting equipment, coffee displays, and warm decorative elements using their earned points.|Continuation of the basic Coffee Making mechanics with greater timing challenges.|The difficulty gradually increases as players progress, with more challenging orders and stricter timing requirements.|Piece 3: Ang Huling Tagatimpla ng Apoy (Mang Berto, master roaster).|
+|Level 4: Gilingan at Timpla|The same café, where players can add coffee grinders, brewing equipment, and other coffee preparation decorations using their earned points.|Continuation of the basic Coffee Making mechanics with more challenging orders.|The difficulty gradually increases as players progress, with more challenging orders and stricter timing requirements.|Piece 4: Ang Kapeng Hindi Sumuko (Ate Jen, market vendor and barista).|
+|Level 5: Kapehan|The same café, with more customization options that allow players to decorate the space and showcase Lipa's coffee heritage using their accumulated points.|Final progression of the Coffee Making mini-game and CAR system.|Final challenge that tests the player's timing accuracy and consistency.|Piece 5: Ang Susunod na Kamay (Ma'am Dolores, museum curator). Tuklas recovers his remaining memories and discovers the reason behind his creation.|
 
 # The Puzzle Piece Stories
 
-### Piece 1: Ang Punong Hindi Kinalawang ("The Tree That Did Not Rust")
+### Piece 1: Ang Punong Hindi Kinalawang (The Tree That Did Not Rust)
 
-NPC: Tandang Isko, an elderly farmer in Zone 1  
-Wants: To be remembered as more than the last of his family to farm.
+**NPC**: Tandang Isko, an elderly farmer in Stage 1
 
-Tandang Isko takes Tuklas to a row of dying Arabica stumps. He explains that Lipa once helped drive the country's coffee boom, until rust swept through the plantations in the late 1880s. Farmers lost nearly everything. Then he leads Tuklas to a tall, sturdy barako tree. This is Coffea liberica, which resisted the rust and was widely planted across Batangas afterward. "Dito nagsimula ang pangalan natin," he says, and Lipa's reputation as the coffee capital grew from it.
+**Motivation**: To have his family's farming legacy remembered and recognized.
 
-- Memory restored: A flash of Tuklas standing in the rain among trees, marveling at the leaves.
-    
-- Theme: Survival and identity.
-    
-- Gameplay link: The player chooses the right ingredients for the first real orders, and rust spreads when they pick the wrong ones.
-    
+Tandang Isko takes him to a row of old coffee trees and tells him about Lipa's coffee industry during the 1800s. He explains how coffee rust affected the plantations in the late 1880s, causing major losses among local farmers. He then introduces him to Coffea liberica, also known as kapeng barako, which became an important part of Batangas' coffee industry following the outbreak. Through this story, [[Tuklas]] learns how coffee helped shape Lipa's identity and reputation.
 
-### Piece 2: Ang Abo at ang Ulan ("The Ash and the Rain")
+**Memory Restored:** [[Tuklas]] remembers standing among the trees in the rain and admiring the leaves around him.
 
-NPC: Aling Nena, who dries beans in Zone 2  
-Wants: To prove that her family's work can survive any disaster.
+### Piece 2: Ang Abo at ang Ulan (The Ash and the Rain)
 
-Aling Nena tells of the 2020 Taal eruption, when ash settled over the farms and the drying beans, and then the pandemic closed the markets. She and her neighbors swept, sorted and dried the beans again, because the harvest would not wait. She teaches Tuklas that drying is a race against weather. A sudden shower echoes the storm that broke Tuklas, and he freezes until she shows him how to cover the racks in time.
+**NPC**: Aling Nena, a coffee-drying yard worker in Stage 2
 
-- Memory restored: The sound of thunder and the moment of the short-circuit, now understood rather than feared.
-    
-- Theme: Resilience.
-    
+**Motivation**: To show that her family's hard work and traditions can overcome challenges.
 
-  
-  
+Aling Nena shares her experiences with the difficulties faced by coffee farmers, particularly during the 2020 Taal eruption and the COVID-19 pandemic. She recalls how ashfall and disruptions affected agricultural activities and how families worked to continue their livelihood despite these challenges. She teaches [[Tuklas]] about the importance of properly drying and preserving coffee beans. When sudden rain interrupts their work, which reminded him of the thunderstorm that caused him to lose his memories.
 
-### Piece 3: Ang Huling Tagatimpla ng Apoy ("The Last Keeper of the Fire")
+**Memory Restored**: [[Tuklas]] remembers the thunderstorm and the moment his system short-circuited, helping him understand what happened to him.
 
-NPC: Mang Berto, master roaster in Zone 3  
-Wants: A successor before his hands grow too old.
+### Piece 3: Ang Huling Tagatimpla ng Apoy (The Last Keeper of the Fire)
 
-Mang Berto roasts by smell, sound and color, not by timer. His children moved to the city for work, and no one has asked to learn. He tells Tuklas that a skill kept only in one person's hands disappears with them. When Tuklas succeeds at the precision roast, Mang Berto asks, half-joking, whether a robot could learn it. The question stays with Tuklas.
+**NPC**: Mang Berto, a master roaster in Stage 3
 
-- Memory restored: The memory of hands, someone's careful hands working on him.
-    
-- Theme: Passing the torch, and the decline in farmers and successors.
-    
+**Motivation**: To pass down his coffee-roasting knowledge and skills to someone before he can no longer practice them.
 
-### Piece 4: Ang Kapeng Hindi Sumuko ("The Coffee That Did Not Give Up")
+Mang Berto demonstrates how he roasts coffee by observing its smell, sound, and color. He shares his concern about having no one to pass his knowledge and skills on to. His children have moved away for work, and fewer people are interested in learning traditional coffee roasting. As [[Tuklas]] watches him carefully prepare the beans, Mang Berto wonders whether someone like him could learn and preserve the craft.
 
-NPC: Ate Jen, a market vendor and barista in Zone 4  
-Wants: To make barako something young people are proud to order.
+Memory Restored: [[Tuklas]] remembers a pair of careful hands working on him, giving him a glimpse of the person who created him.
 
-Ate Jen runs a small stall that nearly closed during the pandemic. She started serving barako to younger customers, many of whom had never tasted it. She explains that people often ask where the name barako comes from, and that historians are still documenting its history and etymology. She shows Tuklas that the culture of coffee lives in the people drinking it as much as in the farms.
+### Piece 4: Ang Kapeng Hindi Sumuko (The Coffee That Did Not Give Up)
 
-- Memory restored: The sense that Tuklas was built to share what he found, not just collect it.
-    
-- Theme: Identity and belonging.
-    
+**NPC**: Ate Jen, a market vendor and barista in Stage 4
 
-### Piece 5: Ang Susunod na Kamay ("The Next Hands")
+**Motivation**: To encourage younger generations to appreciate and take pride in drinking kapeng barako.
 
-NPC: Ma'am Dolores, curator at Museo ng Lipa in Zone 5  
-Wants: To make sure the next generation knows these stories.
+Ate Jen shares how her small coffee stall struggled during the pandemic and how she eventually found ways to attract younger customers. She introduces them to kapeng barako and encourages them to appreciate its distinct taste and cultural significance. Through her story, [[Tuklas]] learns that preserving coffee heritage is not only about farming and production but also about keeping the tradition alive through the people who continue to enjoy it.
 
-In the restored town square, Ma'am Dolores shows Tuklas the museum, opened in 2024 to collect and share Lipa's history, and tells him about the province's effort to register kapeng barako and mark October 1 as Coffee Day. She places the final piece in his hands. As the symbol completes, it shows that Tuklas was built to carry stories forward. Proposed twist: his creator was a Lipa coffee keeper who wanted heritage to outlive the people holding it, so the answer was close to home all along.
+**Memory Restored:** [[Tuklas]] remembers that he was created not only to learn about the world but also to share what he discovers with others.
 
-- Memory restored: Everything. Tuklas answers "Why was I made?"
-    
-- Theme: Passing the torch.
-    
+### Piece 5: Ang Susunod na Kamay (The Next Hands)
 
-**
+**NPC**: Ma'am Dolores, a proposed museum curator character in Stage 5
+
+**Motivation**: To preserve Lipa's coffee heritage and ensure that future generations continue to learn about it.
+
+In the final stage, Ma'am Dolores shares the importance of museums and cultural institutions in preserving local history. She introduces [[Tuklas]] to the efforts made to document and promote Lipa's coffee heritage, including cultural activities and initiatives related to kapeng barako. She then gives the final puzzle piece, allowing him to recover the remaining parts of his memory.
+
+As the final memory returns, he discovers that his creator wanted him to help preserve and share Lipa's coffee heritage. He realizes that his purpose is to keep these stories alive and introduce them to future generations.
+

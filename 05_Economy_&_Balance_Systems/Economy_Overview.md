@@ -1,16 +1,15 @@
 # Progression & Resources
 
-> [!info] Guideline
-> Categorize in-game currencies, acquisition methods, expenditure paths, and character stat progression
+**Tuklas-Eh!** uses a single currency, **points**, which the player earns by winning Coffee Making rounds, with bonus points from win streaks and achievements, and spends only on customizing their café. Points are never lost when a round is lost, so a loss costs the player nothing. There is no secondary currency or crafting system. Other rewards are collected instead of spent: a puzzle piece comes every 5 rounds and unlocks a story that restores part of [[Tuklas]]’ memory, and badges come from achievements. [[Tuklas]] has no stats or upgrades, so progression shows up in the Cultural Awareness Rate (CAR), which rises toward 75% as the game moves from degraded to restored, and in the five puzzle pieces. 
 
-- **Primary Currency:** Earned frequently, spent on basic consumables, repairs, and minor upgrades.
-- **Secondary Currency:** Earned via milestones, spent on permanent perks, rare cosmetics, or character unlocks.
-- **Crafting Materials & Components:** Harvested or scavenged, spent on crafting gear and upgrading attributes.
+- **Primary Currency**: Points. Earned every winning round of the Coffee Making Mini-Game, plus bonuses from win streaks and achievements. Spent on café customization. Points are never lost when a round is lost.
+- **Secondary Currency**: None. Milestone rewards are not spendable: puzzle pieces unlock stories, and badges are collected from achievements.
+- **Crafting Materials & Components**: Not used in this game.
 
 ## Economic Inflow/Outflow Matrix
 
-| Resource/Currency | Sources                                        | Expenditures                                   | Cap/Inventory Limit |
-| ----------------- | ---------------------------------------------- | ---------------------------------------------- | ------------------- |
-| Gold              | Defeating enemies, selling loot, quest rewards | Shop purchases, gear repairs, fast-travel fees | 999,999             |
-| Upgrade Cubes     | Dismantling rare gear, secret chest rewards    | Weapon stat upgrades, skill node unlocks       | 50 per tier         |
-| Healing Herbs     | Foraging in Zone 1 & 2, vendor stock           | Crafting health potions                        | 20 in inventory     |
+| Resource/Currency     | Sources                                   | Expenditures                         | Cap/Inventory Limit                         |
+| --------------------- | ----------------------------------------- | ------------------------------------ | ------------------------------------------- |
+| Points                | Winning rounds, win streaks, achievements | Café customization                   | TBD                                         |
+| Puzzle pieces         | Every 5 rounds                            | Not spent. Each unlocks a story      | 5 total, one per stage (Stage 1 to Stage 5) |
+| Badges / achievements | Win/loss streaks and other achievements   | Not spent. Collected in Achievements | TBD                                         |
